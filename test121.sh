@@ -1,0 +1,1 @@
+echo "testing SCM part"
