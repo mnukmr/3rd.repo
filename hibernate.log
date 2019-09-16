@@ -1,0 +1,149 @@
+2019-07-19 16:18:41 INFO Agent is in hibernate mode. Reducing logging. Logging will be reduced to one log per backoff period
+2019-07-19 16:23:41 INFO Backing off health check to every 600 seconds for 1800 seconds.
+2019-07-19 16:23:41 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-07-19 16:53:41 INFO Backing off health check to every 1200 seconds for 3600 seconds.
+2019-07-19 16:53:41 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-07-19 17:53:41 INFO Backing off health check to every 2400 seconds for 7200 seconds.
+2019-07-19 17:53:41 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-07-19 19:53:41 INFO Backing off health check to every 3600 seconds for 10800 seconds.
+2019-07-19 19:53:41 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-07-19 22:53:41 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-07-27 17:56:12 INFO Agent is in hibernate mode. Reducing logging. Logging will be reduced to one log per backoff period
+2019-07-27 18:01:12 INFO Backing off health check to every 600 seconds for 1800 seconds.
+2019-07-27 18:01:12 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-07-27 18:31:12 INFO Backing off health check to every 1200 seconds for 3600 seconds.
+2019-07-27 18:31:12 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-07-27 19:31:12 INFO Backing off health check to every 2400 seconds for 7200 seconds.
+2019-07-27 19:31:12 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-07-27 21:31:12 INFO Backing off health check to every 3600 seconds for 10800 seconds.
+2019-07-27 21:31:12 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-07-28 00:31:12 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-08-09 22:58:13 INFO Agent is in hibernate mode. Reducing logging. Logging will be reduced to one log per backoff period
+2019-08-09 23:03:12 INFO Backing off health check to every 600 seconds for 1800 seconds.
+2019-08-09 23:03:12 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-08-09 23:16:01 INFO Agent is in hibernate mode. Reducing logging. Logging will be reduced to one log per backoff period
+2019-08-09 23:21:15 INFO Agent is in hibernate mode. Reducing logging. Logging will be reduced to one log per backoff period
+2019-08-09 23:26:16 INFO Backing off health check to every 600 seconds for 1800 seconds.
+2019-08-09 23:26:16 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-08-09 23:56:16 INFO Backing off health check to every 1200 seconds for 3600 seconds.
+2019-08-09 23:56:16 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-08-10 00:56:16 INFO Backing off health check to every 2400 seconds for 7200 seconds.
+2019-08-10 00:56:16 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-08-10 02:56:16 INFO Backing off health check to every 3600 seconds for 10800 seconds.
+2019-08-10 02:56:16 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-08-10 05:56:16 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-08-27 15:03:55 INFO Agent is in hibernate mode. Reducing logging. Logging will be reduced to one log per backoff period
+2019-08-27 15:08:55 INFO Backing off health check to every 600 seconds for 1800 seconds.
+2019-08-27 15:08:55 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-08-27 15:38:55 INFO Backing off health check to every 1200 seconds for 3600 seconds.
+2019-08-27 15:38:55 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-08-27 16:38:55 INFO Backing off health check to every 2400 seconds for 7200 seconds.
+2019-08-27 16:38:55 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-08-27 18:38:55 INFO Backing off health check to every 3600 seconds for 10800 seconds.
+2019-08-27 18:38:55 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-08-27 21:38:55 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-08-29 10:04:50 INFO Agent is in hibernate mode. Reducing logging. Logging will be reduced to one log per backoff period
+2019-08-29 10:09:50 INFO Backing off health check to every 600 seconds for 1800 seconds.
+2019-08-29 10:09:50 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-08-29 10:39:50 INFO Backing off health check to every 1200 seconds for 3600 seconds.
+2019-08-29 10:39:50 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-08-29 11:39:50 INFO Backing off health check to every 2400 seconds for 7200 seconds.
+2019-08-29 11:39:50 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-08-29 13:39:50 INFO Backing off health check to every 3600 seconds for 10800 seconds.
+2019-08-29 13:39:50 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-08-29 16:39:50 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-02 10:55:06 INFO Agent is in hibernate mode. Reducing logging. Logging will be reduced to one log per backoff period
+2019-09-02 11:00:07 INFO Backing off health check to every 600 seconds for 1800 seconds.
+2019-09-02 11:00:07 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-02 11:30:07 INFO Backing off health check to every 1200 seconds for 3600 seconds.
+2019-09-02 11:30:07 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-02 12:30:07 INFO Backing off health check to every 2400 seconds for 7200 seconds.
+2019-09-02 12:30:07 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-02 14:30:07 INFO Backing off health check to every 3600 seconds for 10800 seconds.
+2019-09-02 14:30:07 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-02 17:30:07 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-09 11:11:09 INFO Agent is in hibernate mode. Reducing logging. Logging will be reduced to one log per backoff period
+2019-09-09 11:16:10 INFO Backing off health check to every 600 seconds for 1800 seconds.
+2019-09-09 11:16:10 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-09 11:46:10 INFO Backing off health check to every 1200 seconds for 3600 seconds.
+2019-09-09 11:46:10 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-09 12:46:10 INFO Backing off health check to every 2400 seconds for 7200 seconds.
+2019-09-09 12:46:10 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-09 14:46:10 INFO Backing off health check to every 3600 seconds for 10800 seconds.
+2019-09-09 14:46:10 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-09 17:46:10 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-11 10:37:41 INFO Agent is in hibernate mode. Reducing logging. Logging will be reduced to one log per backoff period
+2019-09-11 10:42:41 INFO Backing off health check to every 600 seconds for 1800 seconds.
+2019-09-11 10:42:41 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-11 11:12:41 INFO Backing off health check to every 1200 seconds for 3600 seconds.
+2019-09-11 11:12:41 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-11 12:09:24 INFO Agent is in hibernate mode. Reducing logging. Logging will be reduced to one log per backoff period
+2019-09-11 12:14:25 INFO Backing off health check to every 600 seconds for 1800 seconds.
+2019-09-11 12:14:25 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-11 12:44:25 INFO Backing off health check to every 1200 seconds for 3600 seconds.
+2019-09-11 12:44:25 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-11 14:59:23 INFO Agent is in hibernate mode. Reducing logging. Logging will be reduced to one log per backoff period
+2019-09-11 15:04:23 INFO Backing off health check to every 600 seconds for 1800 seconds.
+2019-09-11 15:04:23 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-11 15:34:23 INFO Backing off health check to every 1200 seconds for 3600 seconds.
+2019-09-11 15:34:23 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-11 16:34:23 INFO Backing off health check to every 2400 seconds for 7200 seconds.
+2019-09-11 16:34:23 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-14 22:34:37 INFO Agent is in hibernate mode. Reducing logging. Logging will be reduced to one log per backoff period
+2019-09-14 22:39:37 INFO Backing off health check to every 600 seconds for 1800 seconds.
+2019-09-14 22:39:37 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-14 23:09:37 INFO Backing off health check to every 1200 seconds for 3600 seconds.
+2019-09-14 23:09:37 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-15 00:09:37 INFO Backing off health check to every 2400 seconds for 7200 seconds.
+2019-09-15 00:09:37 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-15 02:09:37 INFO Backing off health check to every 3600 seconds for 10800 seconds.
+2019-09-15 02:09:37 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
+2019-09-15 05:09:37 ERROR Health ping failed with error - NoCredentialProviders: no valid providers in chain. Deprecated.
+	For verbose messaging see aws.Config.CredentialsChainVerboseErrors
